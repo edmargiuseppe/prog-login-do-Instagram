@@ -1,13 +1,10 @@
-# Livro de receitas :man_cook:
+# Recriando a página inicial do Instagram :computer:
 
-Olá! Bem vindo ao meu livro de receitas :chicken:
 
-- Strogonoff de Frango
 
-- Pavê
+## Bem-vindo ao projeto login do Instagram!
 
-- purê de batatas
 
-- feijoada
 
-  
+
+
